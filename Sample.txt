@@ -1,0 +1,52 @@
+
+===== State: Submitted by:dkhanna at 8/30/2013 9:16:14 PM ===== 
+
+Current Status: 
+Master Spreadhsheet is updated with the most current status, but on a high level: 
+1. XML Pro PP server is configured with new MKS SI Project 
+2. Sandeep's Sureware and UMpass document are in progress   
+3. Project kickoff meeting done with Watchlist product's stakeholders 
+
+Plan for Next week: 
+1. Setup a technical discovery meeting with Watchlist 
+2. Configure MKS/ADS with another PP server for IMB XMLPro 
+
+
+===== State: Submitted by:dkhanna at 8/16/2013 5:28:27 PM ===== 
+
+Current Status: 
+Master Spreadhsheet is updated with the most current status, but on a high level: 
+1. We are approaching almost 50% of the projects in our Master spreadsheet 
+2. One product "IMB INfrastructure" has been implemented completely and showing as Green 
+3. we had a good technical discussion so far on TBF, SDK, UMPass and finalized a designed based on requirements 
+4. Implementation plan has been discussed for IMB XMLPro internally and will be discussing with windows support team next week 
+5. Technical discovery meeting is complete for SUreware and all the requirements has been gather to implement automated deploy process 
+6. Earlier the plan was to go ahead with all the products under the ownership of Judy, but as discussed with her development team don't have time untill November. 
+
+
+Plan for Next week: 
+1. Need to assign CQ tasks created for UMPass, SDK and TBF 
+2. Solution document needs to be updated for UMPass and SDK with detail design 
+3. Create Solution document for TBF and SUreware 
+4. Setup another product kickoff meeting from the list of 25 products mentioned in the master spreadsheet 
+
+===== State: Submitted by:dkhanna at 8/2/2013 10:32:00 PM ===== 
+
+What was achived so far 
+
+1. Discovery meetings was done for various products as reflected in yellow in the master spreadsheet in the description 
+2. Master spreadsheet has been updated with following changes 
+    a. Updated status as per in Progress : design/development/testing/implementation 
+    b. Color coded the projects as 
+               a. Yellow: In progress 
+               b. Peach: Deprecated 
+    c. Remove Project Kick-off and Discovery Date column 
+    d. Remove Yes/No from ADS Based column 
+    e. Update all hyperlinks 
+    f. Updated per product worksheet 
+3. Product kick-off meeting was done with TBF stakeholders 
+
+Next week Tasks: 
+1. Setup a technical discovery meeting with TBF dev team : already planned 
+2. Setup a meeting to present SCM solution to UMPass dev team: already planned 
+3. Setup a meeting with SDK team to present SCM solution 
